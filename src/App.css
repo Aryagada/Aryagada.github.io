@@ -1,0 +1,104 @@
+/* .App{
+  background-color: #ffffff;
+} */
+textarea{
+
+  width: 98%;
+  /* background-color: #d8b5bd;
+  border: 2px solid black; */
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.map{
+  margin-left: 50px;
+}
+.btn{
+ 
+  height: 60px;
+  width: 180px;
+ 
+  border: 2px solid black;
+  border-radius: 7px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.btn1{
+  height: 40px;
+  width: 80px;
+  background-color:  #d360b8;
+  border: 2px solid black;
+  border-radius: 7px;
+  margin-left: 1px;
+  /* margin-top: 10px; */
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.btn2{
+  height: 40px;
+  width: 80px;
+  background-color: #000000;
+  border: 2px solid black;
+  border-radius: 7px;
+  margin-left: 1px;
+  /* margin-top: 10px; */
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.btn3{
+  height: 40px;
+  width: 80px;
+  background-color:  #2b4d77;
+  color: aqua;
+  border: 2px solid black;
+  border-radius: 7px;
+  margin-left: 1px;
+  /* margin-top: 10px; */
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.btn4{
+  height: 40px;
+  width: 80px;
+  background-color:  #f3d4e4;
+  border: 2px solid black;
+  border-radius: 7px;
+  margin-left: 1px;
+  /* margin-top: 10px; */
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.btn5{
+  height: 40px;
+  width: 80px;
+  background-color:  #427f54;
+  border: 2px solid black;
+  border-radius: 7px;
+  margin-left: 1px;
+  /* margin-top: 10px; */
+  margin-bottom: 10px;
+  font-weight: lighter;
+  font-size: 14px;
+}
+.container{
+  margin-left: 10px;
+
+}
+.chose{
+margin-left: 50%;
+}
+img{
+  margin-left: 10px;
+  
+  border: 2px solid #000000;
+
+
+
+}
