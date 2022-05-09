@@ -2,8 +2,8 @@ import React, {useState } from 'react'
 import './App.css';
 // import Textbox from './components/Textbox';
 import Text from './components/Text';
-import Image from './components/Image';
-import Video from './components/Video';
+// import Image from './components/Image';
+// import Video from './components/Video';
 import Theme from './components/Theme';
 
 function App() {
@@ -17,10 +17,7 @@ function App() {
       <h1>Notes:</h1>
       <Text/> 
       <br />
-     
-      <br />
-      
-      <br />
+ 
 
 
     </div>
